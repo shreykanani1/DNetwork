@@ -1,3 +1,4 @@
+// Index.php (Home page)
 <?php 
 require 'parts/db_config.php';
 session_start();
